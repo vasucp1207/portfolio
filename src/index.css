@@ -1,0 +1,8 @@
+body{
+    font-family: 'Inter';
+    /* font-family: 'Roboto'; */
+    background-image: radial-gradient(rgb(27, 24, 24), rgb(31, 31, 100));
+    /* background-image: radial-gradient(rgb(212, 186, 186), rgb(139, 44, 106)); */
+    object-fit: cover;
+    letter-spacing: 1px;
+}
